@@ -1,35 +1,33 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: ""
+url: "https://noysegal.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: assets/img/avatar.png
+  title: Noy Segal
+  avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+   <p>I'm the maker of a site to find <a href="https://disruptstack.com/">Israeli startups that raised money</a>, an <a href="https://preparr.com/">interview prep platform</a> and a <a href="https://openstartuplist.com/">list of open startups</a>. I travel to work from anywhere and bootstrap side projects.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Copyright © Noy Segal 
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: noysegal1@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "NoySegal"
   gitter:
   google_plus:
   instagram:

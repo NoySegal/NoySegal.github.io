@@ -6,13 +6,22 @@ layout: default
   {% if site.theme_settings.header_text %}
   <div class="call-out"
   style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+  <div class="portrait">
+    <img src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt="Portrait">
+  </div>
+    <h2 class="main-title">Hi, I'm Noy</h2>
     {{ site.theme_settings.header_text }}
   </div>
   {% endif %}
 
   <div class="posts">
     {% for post in paginator.posts %}
-    <div class="post-teaser">
+    <div class="post-teaser text-center">
+      <div class="feature-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | relative_url }}">
+        </a>
+      </div>
       <header>
         <h1>
           <a class="post-link" href="{{ post.url | relative_url }}">

@@ -3,17 +3,28 @@
   @extend %padding-regular;
   display: inline-block;
   width: 100%;
-  background-color:$header-desc-background-color;
+  background-color: $white-background-color;
   background-size: cover;
   font-size: 1.2em;
   text-align: center;
-  color: $header-desc-text-color;
+  color: $header-text-color;
 }
 .call-out p:last-child {
   margin-bottom: 0;
 }
 .call-out a {
-  color: $header-desc-link-color
+  color: $hero-link-color !important;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.call-out a:hover {
+  text-decoration: none;
+}
+.portrait img {
+  border-radius: 100%;
+  display: inline-block;
+  height: 130px;
+  width: 130px
 }
 // Post listing
 .posts {
@@ -26,6 +37,11 @@
     border-bottom: 1px solid $border-color;
     p a {
       @extend .body-link;
+      text-decoration: underline;
+      font-weight: 500;
+    }
+    p a:hover {
+      text-decoration: none;
     }
   }
   .excerpt {
@@ -45,4 +61,10 @@
   @media (max-width: 600px) {
     padding: $padding-small;
   }
+}
+.text-center {
+  text-align: center;
+}
+.feature-image {
+  margin-bottom: 2em;
 }

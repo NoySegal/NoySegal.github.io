@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-   <p>I'm the maker of a site to find <a target="_blank" href="https://disruptstack.com/">Israeli startups that raised money</a>, an <a target="_blank" href="https://preparr.com/">interview prep platform</a> and a <a target="_blank" href="https://openstartuplist.com/">list of open startups</a>. I travel to work from anywhere and bootstrap side projects.</p>
+   <p>I'm the maker of a site to find <a target="_blank" href="https://disruptstack.com/">Israeli startups that raised money</a>, an <a target="_blank" href="https://preparr.com/">interview prep platform</a> and a <a target="_blank" href="https://openstartuplist.com/">list of open startups (Sold)</a>. I travel to work from anywhere and bootstrap side projects.</p>
   header_text_feature_image:
   footer_text: >
    Copyright © Noy Segal 

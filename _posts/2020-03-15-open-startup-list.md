@@ -13,3 +13,9 @@ The website lists all startups and companies that share their metrics publicly, 
 It got a lot of attention and was even featured in an international tech magazine [article](https://t3n.de/news/entwickler-laesst-dich-startups-1265810/).
 
 ![interviewed for t3n tech magazine on Open Startup List]({{ site.baseurl }}/assets/img/t3n_openstartuplist_interview.jpg)
+
+After 3 months of working on this project, it got acquired.
+
+It's been incredible to grow to over 470+ newsletter subscribers, interview startup founders, get featured on "\open" pages and in blog posts.
+
+I'm currently writing an [ebook about my side-project journey](https://gum.co/side-project).

@@ -18,4 +18,6 @@ After 3 months of working on this project, it got acquired.
 
 It's been incredible to grow to over 470+ newsletter subscribers, interview startup founders, get featured on "\open" pages and in blog posts.
 
-I'm currently writing an [ebook about my side-project journey](https://gum.co/side-project).
+I wrote an E-book about my journey of building, which is now available in [Gumroad](https://gum.co/side-project), [Amazon](https://www.amazon.com/dp/B08DN58X4X) and [AppSumo](https://appsumo.com/marketplace-start-with-a-side-project/).
+
+![Start With A Side-Project]({{ site.baseurl }}/assets/img/ebook-feature.png)

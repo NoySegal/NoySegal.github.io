@@ -6,7 +6,7 @@ image: /assets/img/disruptstack.png
 image_alt: disruptstack
 tags: [php-programming-language, laravel-framework]
 ---
-A [web scraper](https://disruptstack.com/) for news on Israeli startups that raised money or made an exit.
+A [web scraper](https://web.archive.org/web/20200614083156/https://disruptstack.com/) for news on Israeli startups that raised money or made an exit.
 
 At first I wrote a PHP script to scrape all Israeli startup news.
 I let it filter (using REGEX) for specific keywords in the title and decsription of the articles it finds, so it would only keep articles about startups that raised or exited.

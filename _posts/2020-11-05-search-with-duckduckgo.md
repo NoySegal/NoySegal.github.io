@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Search With DuckDuckGo
-image: /assets/img/search_with_duckduckgo.png
+image: /assets/img/chrome_extension.png
 image_alt: search-with-duckduckgo
 ---
 A simple [chrome extension](https://chrome.google.com/webstore/detail/search-with-duckduckgo/amkahembcklobdkoaaepgfpmdnobmdkh) that saves you time when you want to search privately.
